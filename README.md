@@ -1,5 +1,6 @@
 # Machine Learning Algorithms
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/veb-101/Machine-Learning-Algorithms/master)
 -------------
 #### Basic python and numpy implementation of some basic machine learning algorithms
 
