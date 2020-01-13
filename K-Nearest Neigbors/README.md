@@ -11,3 +11,4 @@
     7. [Building a k-Nearest-Neighbors (k-NN) Model with Scikit-learn](https://towardsdatascience.com/building-a-k-nearest-neighbors-k-nn-model-with-scikit-learn-51209555453a)
     8. [Understanding KNN(K-nearest neighbor) with example](https://kraj3.com.np/blog/2019/06/understanding-knnk-nearest-neighbor-with-example/)
     9. [Dataset Extraction and analysis - Regression](https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155)
+    10. [Weighted K-NN](https://www.geeksforgeeks.org/weighted-k-nn/)
