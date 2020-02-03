@@ -12,3 +12,8 @@
     8. [Understanding KNN(K-nearest neighbor) with example](https://kraj3.com.np/blog/2019/06/understanding-knnk-nearest-neighbor-with-example/)
     9. [Dataset Extraction and analysis - Regression](https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155)
     10. [Weighted K-NN](https://www.geeksforgeeks.org/weighted-k-nn/)
+
+* Bias - Variance in K-NN
+    * [Why does the variance decreases in KNN algorithm when we increase the K?](https://www.quora.com/Why-does-the-variance-decreases-in-KNN-algorithm-when-we-increase-the-K#)
+    * [KNN: 1-nearest neighbor](https://stats.stackexchange.com/questions/151756/knn-1-nearest-neighbor/151770)
+    * [Day 3 — K-Nearest Neighbors and Bias–Variance Tradeoff](https://medium.com/30-days-of-machine-learning/day-3-k-nearest-neighbors-and-bias-variance-tradeoff-75f84d515bdb)
