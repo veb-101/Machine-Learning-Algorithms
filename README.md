@@ -2,6 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/veb-101/Machine-Learning-Algorithms/master) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/veb-101/Machine-Learning-Algorithms/issues) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/veb-101/Machine-Learning-Algorithms/pulls)
 
+[![Try on repl.it](https://repl-badge.jajoosam.repl.co/try.png)](https://repl.it/repls/folder/machine%20learning%20algorithms?ref=button)
+
 ---
 
 #### Basic python and numpy implementation of some basic machine learning algorithms
