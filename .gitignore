@@ -122,3 +122,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Decision Trees/.vscode/settings.json
+.vscode/settings.json
