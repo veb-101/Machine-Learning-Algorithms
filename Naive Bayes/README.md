@@ -2,7 +2,7 @@
 
 ---
 
-- Naive bayes
+- Articles used
   - [x] [3blue1brown- Bayes theorem, and making probability intuitive](https://www.youtube.com/watch?v=HZGCoVF3YvM)
   - [x] [3blue1brown- The quick proof of Bayes' theorem](https://www.youtube.com/watch?v=U_85TaXbeIo)
   - [x] [Luis Serrano - Naive Bayes classifier: A friendly approach](https://www.youtube.com/watch?v=Q8l0Vip5YUw)
