@@ -8,6 +8,8 @@
 
 #### Numpy implementation of some basic machine learning algorithms
 
+<img src="logo.png" alt='Image' height="400" width="2000"/>
+
 ---
 
 ##### Run Online
